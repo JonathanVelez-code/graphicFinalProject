@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/graphicFinalProject/static/css/main.de5ec64b.css",
+    "main.js": "/graphicFinalProject/static/js/main.e491b674.js",
+    "index.html": "/graphicFinalProject/index.html",
+    "main.de5ec64b.css.map": "/graphicFinalProject/static/css/main.de5ec64b.css.map",
+    "main.e491b674.js.map": "/graphicFinalProject/static/js/main.e491b674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5ec64b.css",
+    "static/js/main.e491b674.js"
+  ]
+}
